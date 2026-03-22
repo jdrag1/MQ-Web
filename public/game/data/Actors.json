@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"$MainCharacter","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"ls Male","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_2","characterIndex":1,"characterName":"Actor1","classId":1,"equips":[1,0,0,0,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"ls Female","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"OC female Battle","characterIndex":0,"characterName":"$FMCC","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"OC female","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"oc female","note":"","profile":""},
+{"id":5,"battlerName":"OC Male Battle","characterIndex":0,"characterName":"$MainCharacter","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"OC Male","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"oc male","note":"","profile":""},
+{"id":6,"battlerName":"Mathildaaa","characterIndex":5,"characterName":"tallcharacters/Actor2","classId":7,"equips":[37,0,46,2,0],"faceIndex":0,"faceName":"Mathilda","traits":[{"code":11,"dataId":1,"value":1},{"code":51,"dataId":7,"value":1},{"code":43,"dataId":72,"value":1},{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Mathilda","nickname":"Mathilda","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":5,"characterName":"tallcharacters/People1","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"mom","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mom","nickname":"","note":"","profile":""}
+]
