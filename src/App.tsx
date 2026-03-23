@@ -57,7 +57,7 @@ function App() {
           
           <div className="bg-gradient-to-br from-yellow-500/10 via-red-500/10 to-emerald-500/10 backdrop-blur-lg rounded-xl sm:rounded-2xl p-1 border-2 border-yellow-500/40">
             <div className="bg-slate-900/70 rounded-lg sm:rounded-xl p-2 sm:p-3">
-              <div className="w-full aspect-video relative">
+              <div className="w-full h-[400px] sm:h-[500px] md:h-[600px] relative">
                 {gameStarted && (
                   <iframe
                     src="/game/index.html"
