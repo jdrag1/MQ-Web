@@ -35,8 +35,7 @@ function App() {
           <div className="absolute -right-16 top-1/2 -translate-y-1/2 text-red-500 opacity-40 -rotate-45 hidden lg:block">
             <Swords size={60} />
           </div>
-          
-          <Gamepad2 className="text-yellow-400 mx-auto mb-2 sm:mb-3" size={40} />
+
           
           <h1 className="text-3xl sm:text-5xl md:text-6xl font-black mb-2 sm:mb-3 px-2">
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 via-red-400 to-emerald-400">
